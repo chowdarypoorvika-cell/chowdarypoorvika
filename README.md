@@ -57,16 +57,6 @@ I'm a **Data Analyst** passionate about transforming complex datasets into clear
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chowdarypoorvika&theme=onedark)
-
-## 👀 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=chowdarypoorvika&color=blue)
-
 ## 🤝 Let's Connect!
 
 <div align="center">
