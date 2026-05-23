@@ -61,13 +61,11 @@ I'm a **Data Analyst** passionate about transforming complex datasets into clear
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=chowdarypoorvika&theme=onedark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chowdarypoorvika&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## 👀 Visitor Count
 
-</div>
-
----
+![](https://komarev.com/ghpvc/?username=chowdarypoorvika&color=blue)
 
 ## 🤝 Let's Connect!
 
